@@ -1,5 +1,5 @@
 spaf-model:1.0
-spaf-doc:1
+spaf-doc:0
 name:binary_primes
 release-date:2010
 release:unique
@@ -8,5 +8,6 @@ categories:math visualizations
 tags:math
 brief:prime numbers binary spatial representation over a constrained 2D area
 dev-tools:Linux box,Processing
-sources-url:https//www.github.com/2-2-0/binary_primes
+sources-url:https://www.github.com/2-2-0/binary_primes
+
 
